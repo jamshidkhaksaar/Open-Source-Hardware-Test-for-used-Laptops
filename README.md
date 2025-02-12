@@ -1,7 +1,3 @@
-
-### Main Interface
-![Main Interface](screenshots/main_interface.png)
-
 ### Testing Options
 1. Select a test from the left panel
 2. Configure test parameters
